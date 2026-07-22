@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# C executables
+*.out
+*.exe
+*.o
+*.obj
+
+# Java
+*.class
+
+# Code Runner
+tempCodeRunnerFile.*
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# NetBeans
+nbproject/private/
+
+# OS files
+Thumbs.db
